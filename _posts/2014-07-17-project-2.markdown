@@ -11,5 +11,5 @@ project-link: https://www.edx.org/course/principles-synthetic-biology-mitx-20-30
 project-date: January 2016 &mdash; Present
 department: UC Berkeley Bioengineering
 department-link: http://bioeng.berkeley.edu/
-description: I am a teaching assistant for the newly-released edX course Principles of Synthetic Biology</a>. In this position, I moderate discussion boards, develop curricula, and help smooth the launch of this exciting, new MITx course.
+description: I am a teaching assistant for the newly-released edX course Principles of Synthetic Biology</a>. In this position I moderate discussion boards, develop curriculum, and help smooth the launch of this exciting, new MITx course.
 ---

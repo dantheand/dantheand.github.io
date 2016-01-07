@@ -11,6 +11,6 @@ project-link: http://biosciweb.net/practicum/frontend
 project-date: December 2012 &mdash; September 2012
 department: Santa Barbara City College Biological Sciences
 department-link: http://www.sbcc.edu/biologicalsciences/
-description: I first cut my programming teeth by developing this web application. This website &mdash; built on the Codeigniter PHP framework &mdash; was designed to help students learn taxonomical classifications. It is database-driven and has a fully-functional backend to manage the taxonomy database. Additionally, it is able to pull from standard online taxonomy databases to keep the content up-to-date.
+description: I first learned to program through the development of this web application. This site &mdash; built on the Codeigniter PHP framework &mdash; is currently helping students at Santa Barbara City College learn taxonomical classifications. It is database-driven and has a fully-functional backend to manage the taxonomy database. Additionally, it is able to pull from standard online taxonomy databases to keep the content up-to-date.
 
 ---
