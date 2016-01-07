@@ -242,10 +242,11 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
+        visibility: hidden;
         font-size: 2em;
-        -webkit-transition: all .3s;
+        /*-webkit-transition: all .3s;
         -moz-transition: all .3s;
-        transition: all .3s;
+        transition: all .3s;*/
     }
 
     .navbar-default .navbar-nav>.active>a {
@@ -253,12 +254,14 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink {
+        visibility: visible;
         padding: 10px 0;
         background-color: #222;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
+        visibility: visible;
     }
 }
 
@@ -266,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(img/header-bg.png);
+    background-image: url(img/head_bg_blue.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -321,7 +324,7 @@ header .intro-text .intro-heading {
 }
 
 section {
-    padding: 100px 0;
+    padding: 75px 0;
 }
 
 section h2.section-heading {
@@ -341,7 +344,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 100px 0;
     }
 }
 

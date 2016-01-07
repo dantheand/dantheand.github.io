@@ -5,6 +5,11 @@
   border: 7px solid #d9d9d9;
 }
 
+/*CV Button stuff*/
+#cv-btn{
+  margin: 20px 0;
+  }
+
 /*Research Images and responsive code*/
 
 .research-img{
