@@ -1,0 +1,16 @@
+---
+title: Biophysical Chemistry Lectures
+subtitle: Video Lecture Series
+layout: default
+modal-id: 2
+date: 2016-01-01
+img: youtube-lg.png
+thumbnail: youtube-thumb.png
+alt: image-alt
+project-link: https://www.youtube.com/channel/UCpA8uC2qZdOcAJ9eqAVaYjw/videos
+project-date: Fall 2015 &mdash; Present
+department: UC Berkeley Molecular & Cell Biology
+department-link: https://mcb.berkeley.edu/
+description: I have been developing a set of video lectures for the UC Berkeley Biophysical Chemistry course. These video lectures are unique to this course and act as a supplementary educational resource enabling student success in this highly-demanding course.
+
+---
