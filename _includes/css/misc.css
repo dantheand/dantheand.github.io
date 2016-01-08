@@ -35,3 +35,14 @@
    height: 1px;
    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 }
+
+/*Text Justification and Left Align when small*/
+.sm-left{
+  text-align: left;
+}
+
+@media(min-width:768px){
+  .sm-left{
+    text-align: justify;
+  }
+}
